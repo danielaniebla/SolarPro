@@ -1,0 +1,1 @@
+SolarPro 9.7: Se eliminan las flechas de selección individual de v9.6. Una única flecha discontinua dorada une conceptualmente el recuadro de ampliación inferior con la ubicación aproximada del Valle de México en el mapa nacional. El recuadro mantiene los marcadores 14–16. No se afirma exactitud SIG.\n

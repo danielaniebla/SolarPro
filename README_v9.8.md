@@ -1,0 +1,1 @@
+SolarPro 9.8: la flecha discontinua entre el recuadro de ampliación y la ubicación aproximada del Valle de México se ilumina con un resplandor dorado al seleccionar 14, 15 o 16 desde el mapa o la botonera. Vuelve a su apariencia normal al seleccionar 01–13. No se cambian las ubicaciones ni los datos.

@@ -1,0 +1,1 @@
+SolarPro 9.1: mapa interactivo de México con 16 áreas regionales ESQUEMÁTICAS, seleccionables por mouse/teclado, vinculadas a datos oficiales CFE 2023. NO contiene delimitaciones CFE oficiales ni figura III.1 incrustada. La fuente PDF CFE se verificó por web, pero su descarga local falló. No usar las áreas ilustrativas para determinar cobertura. No hay cargas GeoJSON.
